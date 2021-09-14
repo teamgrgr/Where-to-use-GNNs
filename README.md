@@ -13,6 +13,8 @@ GNN 관련 정보를 아카이브 합니다.
     - [채용시까지] [머신러닝 개발자 - 사용자 이해](https://team.daangn.com/jobs/4531409003/)
 - Nota
     - [채용시까지] [RL(Reinforcement Learning) Researcher](https://www.notion.so/RL-Reinforcement-Learning-Researcher-79b7f27bc52442669d7050c206fb7624)
+- 아우름플래닛 (LINER)
+    - [채용시까지] [Recommender System Research Engineer](https://www.notion.so/1cb0d6b95e844cbbae65b4807a9c35e3)
 
 <br><br>
 
