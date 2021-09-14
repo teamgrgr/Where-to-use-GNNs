@@ -26,10 +26,10 @@ GNN 관련 정보를 아카이브 합니다.
 <br><br>
 
 ## 대학원
-| 대학 | 학과 | 교수님 | 연구실 | 관련 링크 |
-|:---:|:---:|:----:|-------|--------|
-| Stanford Univ. | Computer Science | Jure Leskovec | | - [CS224W Syllabus](http://web.stanford.edu/class/cs224w/)<br>- [2021 CS224W Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
-| 고려대학교 | 산업경영공학부 | 강필성 | [Data Science & Business Analytic](http://dsba.korea.ac.kr/) | - [연구실 세미나](http://dsba.korea.ac.kr/seminar/)
-| 고려대학교 | 산업경영공학부 | 김성범 | [Data Mining & Quality Analytics](http://dmqm.korea.ac.kr/) | - [연구실 세미나](http://dmqm.korea.ac.kr/activity/seminar)
-| 카이스트 | 전기 및 전자공학부 | 신기정 | [Data Mining](https://sites.google.com/view/kaistdata) | - [교수님 강의 자료](https://sites.google.com/view/kaistdata/courses)
-| POSTECH | 컴퓨터공학과 | 옥정슬<br>& 김동우 | [Machine learning](http://ml.postech.ac.kr/) | 
+| 대학 | 학과 | 교수님 | 관련 링크 |
+|:---:|:---:|:----:|--------|
+| Stanford Univ. | Computer Science | Jure Leskovec | - [CS224W Syllabus](http://web.stanford.edu/class/cs224w/)<br>- [2021 CS224W Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+| 고려대학교 | 산업경영공학부 | 강필성 | - [Data Science & Business Analytics Lab](http://dsba.korea.ac.kr/)<br>- [연구실 세미나](http://dsba.korea.ac.kr/seminar/)
+| 고려대학교 | 산업경영공학부 | 김성범 | - [Data Mining & Quality Analytics Lab](http://dmqm.korea.ac.kr/)<br>- [연구실 세미나](http://dmqm.korea.ac.kr/activity/seminar)
+| 카이스트 | 전기 및 전자공학부 | 신기정 | - [Data Mining Lab](https://sites.google.com/view/kaistdata)<br>- [교수님 강의 자료](https://sites.google.com/view/kaistdata/courses)
+| POSTECH | 컴퓨터공학과 | 옥정슬<br>& 김동우 | - [Machine Learning Lab](http://ml.postech.ac.kr/) | 
