@@ -6,7 +6,7 @@ GNN 관련 정보를 아카이브 합니다.
 
 <br><br>
 
-## 채용 공고
+## 채용
 | 회사 | 관련 링크 | 모집 기간 |
 |:---:|--------|:-------:|
 | 카카오 | [머신러닝 엔지니어 모집](https://careers.kakao.com/jobs/P-11842) | 채용시까지 |
@@ -19,9 +19,12 @@ GNN 관련 정보를 아카이브 합니다.
 ## 회사 
 - 블로그 글 / 세미나 & 컨퍼런스 자료
 
-| 회사 | 분야 | 관련 링크 |
-|:---:|:---:|--------|
-| 네이버 클로바| 추천 시스템 | - [2020 DEVIEW - 추천시스템 3.0](https://deview.kr/2020/sessions/356) |
+| 회사 | 관련 링크 |
+|:---:|--------|
+| DeepMind | - (2020.09) [Traffic prediction with advanced Graph Neural Networks](https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks) |
+| NAVER CLOVA | - (2020.11) [DEVIEW - 추천시스템 3.0](https://deview.kr/2020/sessions/356) |
+| MakinaRocks | - (2021.02) [Chip Placement with Deep Reinforcement Learning](https://makinarocks.github.io/chip_placement_with_reinforcement_learning/) |
+
 
 <br><br>
 
