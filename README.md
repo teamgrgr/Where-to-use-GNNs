@@ -36,3 +36,4 @@ GNN 관련 정보를 아카이브 합니다.
 | 고려대학교 | 산업경영공학부 | 김성범 | - [Data Mining & Quality Analytics Lab](http://dmqm.korea.ac.kr/)<br>- [연구실 세미나](http://dmqm.korea.ac.kr/activity/seminar)
 | 카이스트 | 전기 및 전자공학부 | 신기정 | - [Data Mining Lab](https://sites.google.com/view/kaistdata)<br>- [교수님 강의 자료](https://sites.google.com/view/kaistdata/courses)
 | POSTECH | 컴퓨터공학과 | 옥정슬<br>& 김동우 | - [Machine Learning Lab](http://ml.postech.ac.kr/) | 
+| 충남대학교 | 컴퓨터융합학부 | 임성수 | - [Data Intelligence Lab](https://sites.google.com/view/cnudi/) | 
