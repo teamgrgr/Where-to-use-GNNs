@@ -11,7 +11,6 @@ GNN 관련 정보를 아카이브 합니다.
 |:---:|--------|:-------:|
 | 카카오 | [머신러닝 엔지니어 모집](https://careers.kakao.com/jobs/P-11842) | 채용시까지 |
 | 당근마켓 | [머신러닝 개발자 - 사용자 이해](https://team.daangn.com/jobs/4531409003/) | 채용시까지 |
-| Nota | [RL(Reinforcement Learning) Researcher](https://www.notion.so/RL-Reinforcement-Learning-Researcher-79b7f27bc52442669d7050c206fb7624) | 채용시까지 |
 | 아우름플래닛 (LINER) | [Recommender System Research Engineer](https://www.notion.so/1cb0d6b95e844cbbae65b4807a9c35e3) | 채용시까지 |
 
 <br><br>
