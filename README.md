@@ -12,6 +12,7 @@ GNN 관련 정보를 아카이브 합니다.
 | 카카오 | [머신러닝 엔지니어 모집](https://careers.kakao.com/jobs/P-11842) | 채용시까지 |
 | 당근마켓 | [머신러닝 개발자 - 사용자 이해](https://team.daangn.com/jobs/4531409003/) | 채용시까지 |
 | 아우름플래닛 (LINER) | [머신러닝 엔지니어 - Machine Learning Engineer](https://www.notion.so/Machine-Learning-Engineer-0281d3ef838541e7861760b346e32e74) | 채용시까지 |
+| LINE | [Machine Learning Engineer (LINE TIMELINE)](https://careers.linecorp.com/ko/jobs/665) | 채용시까지 |
 
 <br><br>
 
