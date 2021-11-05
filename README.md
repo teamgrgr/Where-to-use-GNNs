@@ -11,7 +11,7 @@ GNN 관련 정보를 아카이브 합니다.
 |:---:|--------|:-------:|
 | 카카오 | [머신러닝 엔지니어 모집](https://careers.kakao.com/jobs/P-11842) | 채용시까지 |
 | 당근마켓 | [머신러닝 개발자 - 사용자 이해](https://team.daangn.com/jobs/4531409003/) | 채용시까지 |
-| 아우름플래닛 (LINER) | [머신러닝 엔지니어 - Machine Learning Engineer](https://www.notion.so/Machine-Learning-Engineer-0281d3ef838541e7861760b346e32e74) | 채용시까지 |
+| 아우름플래닛 (LINER) | [머신러닝 엔지니어 - Machine Learning Engineer](https://liner.oopy.io/0281d3ef-8385-41e7-8617-60b346e32e74) | 채용시까지 |
 | LINE | [Machine Learning Engineer (LINE TIMELINE)](https://careers.linecorp.com/ko/jobs/665) | 채용시까지 |
 
 <br><br>
@@ -40,4 +40,4 @@ GNN 관련 정보를 아카이브 합니다.
 | 성균관대학교 | 소프트웨어융합대학 | 박호건 | - [LearnData Lab](https://learndatalab.github.io/) |
 | 충남대학교 | 컴퓨터융합학부 | 임성수 | - [Data Intelligence Lab](https://sites.google.com/view/cnudi/) | 
 | 카이스트 | 전기 및 전자공학부 | 신기정 | - [Data Mining Lab](https://sites.google.com/view/kaistdata)<br>- [교수님 강의 자료](https://sites.google.com/view/kaistdata/courses)
-| 포항공과대학교 | 컴퓨터공학과 | 옥정슬<br>& 김동우 | - [Machine Learning Lab](http://ml.postech.ac.kr/) | 
+| 포항공과대학교 | 컴퓨터공학과 | 옥정슬 & 김동우 & 안성수 & 이남훈 | - [Machine Learning Lab](http://ml.postech.ac.kr/) | 
