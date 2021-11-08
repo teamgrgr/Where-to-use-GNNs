@@ -32,12 +32,10 @@ GNN 관련 정보를 아카이브 합니다.
 | 대학 | 학과 | 교수님 | 관련 링크 |
 |:---:|:---:|:----:|--------|
 | Stanford Univ. | Computer Science | Jure Leskovec | - [CS224W Syllabus](http://web.stanford.edu/class/cs224w/)<br>- [2021 CS224W Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
-| 고려대학교 | 산업경영공학부 | 강필성 | - [Data Science & Business Analytics Lab](http://dsba.korea.ac.kr/)<br>- [연구실 세미나](http://dsba.korea.ac.kr/seminar/)
-| 고려대학교 | 산업경영공학부 | 김성범 | - [Data Mining & Quality Analytics Lab](http://dmqm.korea.ac.kr/)<br>- [연구실 세미나](http://dmqm.korea.ac.kr/activity/seminar)
 | 고려대학교 | 컴퓨터학과 | 강재우 | - [Data Mining and Information Systems Lab](https://dmis.korea.ac.kr/)
 | 고려대학교 | 컴퓨터학과 | 김현우 | - [Machine Learning & Vision Lab](https://mlv.korea.ac.kr/)
 | 서울대학교 | 컴퓨터공학부 | 강유 | - [Data Mining Lab](https://datalab.snu.ac.kr/) | 
 | 성균관대학교 | 소프트웨어융합대학 | 박호건 | - [LearnData Lab](https://learndatalab.github.io/) |
 | 충남대학교 | 컴퓨터융합학부 | 임성수 | - [Data Intelligence Lab](https://sites.google.com/view/cnudi/) | 
 | 카이스트 | 전기 및 전자공학부 | 신기정 | - [Data Mining Lab](https://sites.google.com/view/kaistdata)<br>- [교수님 강의 자료](https://sites.google.com/view/kaistdata/courses)
-| 포항공과대학교 | 컴퓨터공학과 | 옥정슬 & 김동우 & 안성수 & 이남훈 | - [Machine Learning Lab](http://ml.postech.ac.kr/) | 
+| 포항공과대학교 | 컴퓨터공학과 | 옥정슬 & 김동우 <br>& 안성수 & 이남훈 | - [Machine Learning Lab](http://ml.postech.ac.kr/) | 
