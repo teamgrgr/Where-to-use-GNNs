@@ -22,8 +22,9 @@ GNN 관련 정보를 아카이브 합니다.
 | 회사 | 관련 링크 |
 |:---:|--------|
 | DeepMind | - (2020.09) [Traffic prediction with advanced Graph Neural Networks](https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks) |
-| NAVER CLOVA | - (2020.11) [추천시스템 3.0: 딥러닝 후기시대에서 바이어스, 그래프, 그리고 인과관계의 중요성](https://deview.kr/2020/sessions/356) |
 | MakinaRocks | - (2021.11) [강화학습, 산업의 난제에 도전하다!: ASIC 반도체 설계(Floorplan) 자동화](https://deview.kr/2021/sessions/480) <br>- (2021.02) [Chip Placement with Deep Reinforcement Learning](https://makinarocks.github.io/chip_placement_with_reinforcement_learning/) |
+| NAVER CLOVA | - (2020.11) [추천시스템 3.0: 딥러닝 후기시대에서 바이어스, 그래프, 그리고 인과관계의 중요성](https://deview.kr/2020/sessions/356) |
+| NAVER Search | - (2021.11) [Knowledge Graph에게 맛집과 사용자를 묻는다. : GNN으로 맛집 취향 저격 하기!](https://deview.kr/2021/sessions/437) |
 | Uber | - (2021.05) [Fraud Detection: Using Relational Graph Learning to Detect Collusion](https://eng.uber.com/fraud-detection/) <br>- (2019.12) [Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations](https://eng.uber.com/uber-eats-graph-learning/) |
 
 <br><br>
