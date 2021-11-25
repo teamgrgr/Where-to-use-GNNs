@@ -6,19 +6,7 @@ GNN 관련 정보를 아카이브 합니다.
 
 <br><br>
 
-## 채용
-| 회사 | 관련 링크 | 모집 기간 |
-|:---:|--------|:-------:|
-| 카카오 | [머신러닝 엔지니어 모집](https://careers.kakao.com/jobs/P-11842) | 채용시까지 |
-| 당근마켓 | [머신러닝 개발자 - 사용자 이해](https://team.daangn.com/jobs/4531409003/) | 채용시까지 |
-| 아우름플래닛 (LINER) | [머신러닝 엔지니어 - Machine Learning Engineer](https://liner.oopy.io/0281d3ef-8385-41e7-8617-60b346e32e74) | 채용시까지 |
-| LINE | [Machine Learning Engineer (LINE TIMELINE)](https://careers.linecorp.com/ko/jobs/665) | 채용시까지 |
-
-<br><br>
-
 ## 회사 
-- 블로그 글 / 세미나 & 컨퍼런스 자료
-
 | 회사 | 관련 링크 |
 |:---:|--------|
 | DeepMind | - (2020.09) [Traffic prediction with advanced Graph Neural Networks](https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks) |
@@ -29,7 +17,17 @@ GNN 관련 정보를 아카이브 합니다.
 
 <br><br>
 
-## 대학원
+## 채용
+| 회사 | 관련 링크 |
+|:---:|--------|
+| 카카오 | - [머신러닝 엔지니어 모집](https://careers.kakao.com/jobs/P-11842) |
+| 당근마켓 | - [머신러닝 개발자 - 사용자 이해](https://team.daangn.com/jobs/4531409003/)<br>- [머신러닝 모델 개발자](https://team.daangn.com/jobs/4300803003/) |
+| 아우름플래닛 (LINER) | - [머신러닝 엔지니어 - Machine Learning Engineer](https://liner.oopy.io/0281d3ef-8385-41e7-8617-60b346e32e74) |
+| LINE | - [Machine Learning Engineer (LINE TIMELINE)](https://careers.linecorp.com/ko/jobs/665) |
+
+<br><br>
+
+## 연구
 | 대학 | 학과 | 교수님 | 관련 링크 |
 |:---:|:---:|:----:|--------|
 | Stanford Univ. | Computer Science | Jure Leskovec | - [CS224W Syllabus](http://web.stanford.edu/class/cs224w/)<br>- [2021 CS224W Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
