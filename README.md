@@ -1,8 +1,15 @@
 # Where to use GNNs
 
-GNN 관련 정보를 아카이브 합니다.
+Graph Neural Networks 관련 정보를 아카이브 합니다.
 
-항목을 추가하고 싶으신 분은 [컨트리뷰션 가이드](https://github.com/edenjoah/Where-to-use-GNNs/blob/main/CONTRIBUTING.md)에 맞춰 Pull request를 보내주세요.
+<br><br>
+
+## 채용
+| 회사 | 관련 링크 |
+|:---:|--------|
+| 카카오 | - [머신러닝 엔지니어 모집](https://careers.kakao.com/jobs/P-11842) |
+| 당근마켓 | - [머신러닝 개발자 - 사용자 이해](https://team.daangn.com/jobs/4531409003/)<br>- [머신러닝 모델 개발자](https://team.daangn.com/jobs/4300803003/) |
+| 아우름플래닛 (LINER) | - [머신러닝 엔지니어 - Machine Learning Engineer](https://liner.oopy.io/0281d3ef-8385-41e7-8617-60b346e32e74) |
 
 <br><br>
 
@@ -14,16 +21,6 @@ GNN 관련 정보를 아카이브 합니다.
 | NAVER CLOVA | - (2020.11) [추천시스템 3.0: 딥러닝 후기시대에서 바이어스, 그래프, 그리고 인과관계의 중요성](https://deview.kr/2020/sessions/356) |
 | NAVER Search | - (2021.11) [Knowledge Graph에게 맛집과 사용자를 묻는다. : GNN으로 맛집 취향 저격 하기!](https://deview.kr/2021/sessions/437) |
 | Uber | - (2021.05) [Fraud Detection: Using Relational Graph Learning to Detect Collusion](https://eng.uber.com/fraud-detection/) <br>- (2019.12) [Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations](https://eng.uber.com/uber-eats-graph-learning/) |
-
-<br><br>
-
-## 채용
-| 회사 | 관련 링크 |
-|:---:|--------|
-| 카카오 | - [머신러닝 엔지니어 모집](https://careers.kakao.com/jobs/P-11842) |
-| 당근마켓 | - [머신러닝 개발자 - 사용자 이해](https://team.daangn.com/jobs/4531409003/)<br>- [머신러닝 모델 개발자](https://team.daangn.com/jobs/4300803003/) |
-| 아우름플래닛 (LINER) | - [머신러닝 엔지니어 - Machine Learning Engineer](https://liner.oopy.io/0281d3ef-8385-41e7-8617-60b346e32e74) |
-| LINE | - [Machine Learning Engineer (LINE TIMELINE)](https://careers.linecorp.com/ko/jobs/665) |
 
 <br><br>
 
