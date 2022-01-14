@@ -8,7 +8,7 @@ Graph Neural Networks 관련 정보를 아카이브 합니다.
 | 회사 | 관련 링크 |
 |:---:|--------|
 | 카카오 | - [머신러닝 엔지니어 모집](https://careers.kakao.com/jobs/P-11842) |
-| 당근마켓 | - [머신러닝 개발자 - 사용자 이해](https://team.daangn.com/jobs/4531409003/)<br>- [머신러닝 모델 개발자](https://team.daangn.com/jobs/4300803003/) |
+| 당근마켓 | - [머신러닝 개발자 - 사용자 이해](https://team.daangn.com/jobs/4531409003/) |
 | 아우름플래닛 (LINER) | - [머신러닝 엔지니어 - Machine Learning Engineer](https://liner.oopy.io/0281d3ef-8385-41e7-8617-60b346e32e74) |
 
 <br><br>
