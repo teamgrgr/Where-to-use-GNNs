@@ -8,7 +8,7 @@ Graph Neural Networks 관련 정보를 아카이브 합니다.
 | 회사 | 관련 링크 |
 |:---:|--------|
 | 아우름플래닛 (LINER) | - [머신러닝 엔지니어 - Machine Learning Engineer](https://liner.oopy.io/0281d3ef-8385-41e7-8617-60b346e32e74) |
-| 위대한상상 (요기요) | - [Search/Recommendation ML Model Engineer](https://www.wanted.co.kr/wd/34993) |
+| 위대한상상 (요기요) | - [Search/Recommendation ML Model Engineer](https://techrecruiting.wesang.com/join-view.do?job=4507775002) |
 | 카카오 | - [머신러닝 엔지니어 모집](https://careers.kakao.com/jobs/P-11842) |
 | 카카오엔터프라이즈 | - [[지식그래프] 머신러닝 전문가 영입](https://careers.kakaoenterprise.com/job/%EA%B2%BD%EA%B8%B0%EB%8F%84-%EC%A7%80%EC%8B%9D%EA%B7%B8%EB%9E%98%ED%94%84-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%A0%84%EB%AC%B8%EA%B0%80-%EC%98%81%EC%9E%85-%EA%B2%BD%EA%B8%B0%EB%8F%84/6750344/) |
 
