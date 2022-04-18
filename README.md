@@ -10,7 +10,7 @@ Graph Neural Networks 관련 정보를 아카이브 합니다.
 | 교보문고 | - [데이터 사이언티스트](https://www.wanted.co.kr/wd/84866) |
 | 메디플러스솔루션 | - [AI Engineer](https://www.wanted.co.kr/wd/78698) |
 | 아우름플래닛 | - [머신러닝 엔지니어 - Machine Learning Engineer](https://liner.oopy.io/0281d3ef-8385-41e7-8617-60b346e32e74) |
-| 앤트 | - [ML/DL Researcher](https://www.wanted.co.kr/wd/106875) |
+| 앤트 | - [ML/DL Researcher](https://at-ant.notion.site/Work-at-Ant-fbd647446c6b4bd2bed313ae4fbfc2e5) |
 | 옴니어스 | - [ML Engineer - Trend analytics](https://recruit.omnious.com/374485af57864d93a58e5b74343491cb) |
 | 위대한상상 | - [Search/Recommendation ML Model Engineer](https://techrecruiting.wesang.com/join-view.do?job=4507775002) |
 | 카카오 | - [머신러닝 엔지니어 모집](https://careers.kakao.com/jobs/P-11842) |
